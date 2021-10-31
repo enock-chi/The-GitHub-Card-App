@@ -1,0 +1,163 @@
+body{
+  position: relative;
+  background: black;
+
+}
+
+
+#CardApp{
+  position: relative;
+  background: white;
+
+}
+
+.header-container{
+  position: relative;
+  background-color: #ccc;
+  width: 20vw;
+  height: 15vh;
+  left: 38%;
+  align-items: center;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: white;
+}
+
+.header{
+  position: relative;
+  text-align: center;
+  top: 20px;
+  background-color: white;
+  width: 15vw;
+  padding: 20px;
+  font-size: 20px;
+  left: 5%;
+  border-radius: 10px;
+}
+
+.form-container{
+  position: relative;
+  background-color: #ccc;
+  align-items: center;
+  width: 50vw;
+  padding: 30px;
+  left: 20%;
+  margin: 20px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: white;
+
+}
+
+.form-input{
+  position: relative;
+  background-color: white;
+  border-style: solid;
+  width: 35vw;
+  border-radius: 10px;
+  padding: 15px;
+  left: 10%;
+}
+
+.input{
+  position: relative;
+  height: 20px;
+  width: 20vw;
+  left: 11%;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+
+.form-input button{
+  position: relative;
+  height: 24px;
+  left: 11%;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+
+.github-profile{
+  position: relative;
+  display: flex;
+  height: 20vh;
+  width: 70vw;
+  margin: 15px;
+  padding: 2rem;
+  background-color: #ccc;
+  border-radius: 5px;
+  left: 6rem;
+  border-style: solid;
+  border-color: white;
+
+}
+
+.card-image{
+  position: relative;
+  height: 15vh;
+  width: 12vw;
+  margin-right: 2rem ;
+  top: 15px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: white;
+  left: 8%;
+  
+}
+
+
+.name{
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.company{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.card-info{
+  position: relative;
+  background-color: white;
+  top: 16px;
+  height: 10vh;
+  width: 30vw;
+  padding: 20px;
+  border-radius: 5px;
+  border-style: solid;
+  margin-right: 15px;
+}
+
+.card-extra-info{
+  position: relative;
+  border-style: solid;
+  border-color: white ;
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  height: 11vh;
+  width: 15vw;
+  padding: 20px;
+  top: 12px;
+  
+  
+}
+
+.extra-info{
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  top: 5px;
+}
+
+.card-extra-info h3{
+  position: relative;
+  left: 23%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.array{
+  list-style: none;
+}
+
